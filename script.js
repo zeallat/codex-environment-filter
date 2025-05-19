@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         codex-environment-filter
-// @version      0.3.1
+// @version      0.3.2
 // @description  프로젝트별 필터 드롭다운(플로팅) + 새로고침 유지 / 브라우저 재시작 초기화
 // @match        https://chatgpt.com/codex
 // @grant        none
@@ -37,9 +37,11 @@
         transform: "translateX(-50%)",
         zIndex: 9999,
         padding: "4px 8px",
-        border: "1px solid #ccc",
+        border: "2px solid #ccc",
         borderRadius: "6px",
         background: "#fff",
+        fontSize: "1.4em",
+        fontWeight: "bold",
       });
       document.body.appendChild(select);
 
