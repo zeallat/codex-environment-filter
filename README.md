@@ -121,8 +121,6 @@ We welcome contributions!
 
 *(Please specify where users should report bugs or suggest features, e.g., GitHub Issues page if applicable)*
 
-## (Optional) License
+## License
 
-*(Specify the license under which this script is distributed, e.g., MIT License, GPL, etc. If no license is specified, it's typically considered proprietary.)*
-
-This script is provided as-is. Use at your own risk.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
